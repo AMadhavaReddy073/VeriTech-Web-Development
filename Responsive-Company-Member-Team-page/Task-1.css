@@ -1,0 +1,51 @@
+.main{
+    padding: 20px;
+}
+.company-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    background-color:  rgb(43, 166, 158);
+    color: white;
+    width: 450px;
+    padding: 10px;
+    border-radius: 8px;
+    align-self: center;
+    margin: 25px;
+}
+.team-cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.team-heading{
+    background-color:  rgb(43, 166, 158);
+    color: white;
+    width: 250px;
+    padding: 10px;
+    border-radius: 8px;
+    align-self: center;
+    margin: 25px;
+}
+.dp-img{
+    width: 150px;
+    margin: 10px;
+}
+.member-card{
+    margin: 12px;
+    padding: 10px;
+}
+.hr-color{
+    border-top: rgb(43, 166, 158) dashed 3px;
+    width: 75%;
+    align-self: center;
+}
+.designation{
+    color: rgb(43, 166, 158);
+    font-style: italic;
+}
+.wrap{
+    flex-wrap: wrap;
+}
